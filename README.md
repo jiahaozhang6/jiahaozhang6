@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E7490&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B+Hi!+I'm+Jiahao+Zhang.;Welcome+to+my+GitHub+page!;Building+generative+visual+worlds." alt="Typing introduction" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&amp;pause=1000&amp;color=33C5F7&amp;center=true&amp;vCenter=true&amp;random=true&amp;width=435&amp;lines=%F0%9F%91%8BHi%2C+I%27m+Jiahao+Zhang+.;Welcome+to+my+GitHub+page+!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">🎓 Ph.D. candidate in Computer Science at Beihang University (BUAA).</p>
