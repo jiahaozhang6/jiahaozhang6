@@ -10,7 +10,7 @@
 <p align="center">🤝 Open to research collaboration, paper ideas, and interesting projects.</p>
 
 <p align="center">
-  <a href="https://jiahaozhang6.github.io/"><img src="https://img.shields.io/badge/Homepage-0E7490?style=flat-square&logo=safari&logoColor=white" alt="Homepage" /></a>
+  <a href="https://www.jiahaozhang.cn/"><img src="https://img.shields.io/badge/Homepage-0E7490?style=flat-square&logo=safari&logoColor=white" alt="Homepage" /></a>
   <a href="https://scholar.google.com/citations?user=-yfIyeAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://jiahaozhang6.github.io/files/Jiahao_Zhang_English_Resume.pdf"><img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&logo=readthedocs&logoColor=white" alt="CV" /></a>
   <a href="mailto:quinn_zhang@buaa.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
