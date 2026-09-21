@@ -15,17 +15,3 @@
   <a href="https://jiahaozhang6.github.io/files/Jiahao_Zhang_English_Resume.pdf"><img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&logo=readthedocs&logoColor=white" alt="CV" /></a>
   <a href="mailto:quinn_zhang@buaa.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center">
-  📌 <a href="https://faculty.runi.ac.il/arik/site/papers/PanoTask-task-driven-panoramic-video-generation/"><strong>PanoTask</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://doi.org/10.1007/978-981-96-2061-6_29"><strong>MKSNet</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://58.87.103.33:8888/">Daily Papers</a>
-  &nbsp;·&nbsp;
-  <a href="http://58.87.103.33:3000/">Notes</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.zhihu.com/people/mei-you-dao-bu-liao-de-ming-tian-9">Zhihu</a>
-</p>
